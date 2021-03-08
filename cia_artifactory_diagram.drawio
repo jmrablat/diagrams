@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-08T08:40:54.654Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36 Edg/85.0.564.44" etag="cLFPBiTQA3_DSJfDSQBu" version="14.4.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-03-08T08:50:51.264Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36 Edg/85.0.564.44" etag="hGZP6yGV8cnviuF1-ADk" version="14.4.4" type="github" pages="2">
   <diagram name="Page-1" id="5987fedf-629e-85c4-6858-42fee31821dd">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -405,23 +405,17 @@
         <mxCell id="7FcaT9RhBpfD2TXKCcy4-74" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#7FBA42;rounded=0;glass=1;sketch=0;fontFamily=Verdana;fontSize=16;fontColor=#000000;aspect=fixed;" parent="hsBsqEIJs7OQs_2mitoa-1" vertex="1">
           <mxGeometry x="330.99999999999994" y="980" width="17.92" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="GN53qB2qwHYUvsKL3PFk-0" value="administrateur Editeur" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=16;image=img/lib/mscae/Data_Factory.svg;rounded=0;shadow=0;glass=1;sketch=0;fillColor=none;gradientColor=none;fontFamily=Verdana;" vertex="1" parent="hsBsqEIJs7OQs_2mitoa-1">
-          <mxGeometry x="892.9200000000001" y="10" width="50" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="GN53qB2qwHYUvsKL3PFk-1" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#2072B8;rounded=0;glass=1;sketch=0;fontFamily=Verdana;fontSize=21;fontColor=#000000;aspect=fixed;" vertex="1" parent="hsBsqEIJs7OQs_2mitoa-1">
-          <mxGeometry x="968.88" y="100" width="17.92" height="38" as="geometry" />
+          <mxGeometry x="950.96" y="76" width="17.92" height="38" as="geometry" />
         </mxCell>
         <mxCell id="GN53qB2qwHYUvsKL3PFk-2" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;rounded=0;glass=1;sketch=0;fontFamily=Verdana;fontSize=21;fontColor=#000000;aspect=fixed;" vertex="1" parent="hsBsqEIJs7OQs_2mitoa-1">
-          <mxGeometry x="850.96" y="84" width="17.92" height="38" as="geometry" />
+          <mxGeometry x="859" y="70" width="17.92" height="38" as="geometry" />
         </mxCell>
         <mxCell id="GN53qB2qwHYUvsKL3PFk-3" value="vue Administrateurs" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;glass=1;sketch=1;fontFamily=Verdana;fontStyle=1;fontSize=16;" vertex="1" parent="hsBsqEIJs7OQs_2mitoa-1">
           <mxGeometry x="290" y="70" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GN53qB2qwHYUvsKL3PFk-6" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=1;sketch=0;fillColor=none;gradientColor=none;fontFamily=Verdana;fontSize=16;fontColor=#000000;" vertex="1" parent="hsBsqEIJs7OQs_2mitoa-1">
           <mxGeometry x="318.96" y="160" width="1120" height="8" as="geometry" />
-        </mxCell>
-        <mxCell id="GN53qB2qwHYUvsKL3PFk-7" value="administrateur ULD" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=16;image=img/lib/mscae/Data_Factory.svg;rounded=0;shadow=0;glass=1;sketch=0;fillColor=none;gradientColor=none;fontFamily=Verdana;" vertex="1" parent="hsBsqEIJs7OQs_2mitoa-1">
-          <mxGeometry x="1197.5800000000002" y="10" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GN53qB2qwHYUvsKL3PFk-8" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#2072B8;rounded=0;glass=1;sketch=0;fontFamily=Verdana;fontSize=21;fontColor=#000000;aspect=fixed;" vertex="1" parent="hsBsqEIJs7OQs_2mitoa-1">
           <mxGeometry x="1273.54" y="100" width="17.92" height="38" as="geometry" />
@@ -434,6 +428,12 @@
         </mxCell>
         <mxCell id="GN53qB2qwHYUvsKL3PFk-11" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#CCCBCB;rounded=0;glass=1;sketch=0;fontFamily=Verdana;fontSize=16;fontColor=#000000;aspect=fixed;" vertex="1" parent="hsBsqEIJs7OQs_2mitoa-1">
           <mxGeometry x="1139.6200000000001" y="100" width="17.92" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="GN53qB2qwHYUvsKL3PFk-13" value="&lt;font color=&quot;#000000&quot;&gt;admin. &lt;br&gt;ULD&lt;/font&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#BD7000;fillColor=#f0a30a;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.administrator;fontFamily=Verdana;fontSize=16;fontColor=#ffffff;" vertex="1" parent="hsBsqEIJs7OQs_2mitoa-1">
+          <mxGeometry x="1185" y="20" width="58" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="GN53qB2qwHYUvsKL3PFk-14" value="&lt;font color=&quot;#000000&quot;&gt;&lt;br&gt;admin. indus.&lt;br&gt;éditeurs&lt;/font&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#314354;fillColor=#647687;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.writer;fontFamily=Verdana;fontSize=16;fontColor=#ffffff;" vertex="1" parent="hsBsqEIJs7OQs_2mitoa-1">
+          <mxGeometry x="890.9200000000001" y="31" width="54" height="59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
