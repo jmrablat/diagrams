@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-06T08:33:59.880Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.62" etag="a6_rijzPZM6rJzrrpxCn" version="14.6.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-09-06T08:36:56.386Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.62" etag="SVsjTTuLYmkenpDnYeTl" version="14.6.9" type="github">
   <diagram name="git_historique_divergent" id="x6lkSro1uwKLkvU2gX2n">
     <mxGraphModel dx="1422" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -81,11 +81,11 @@
         </mxCell>
         <mxCell id="miKAQ_X7Kk5Acl7hc5rN-86" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startFill=0;endArrow=none;endFill=0;strokeColor=#6c8ebf;fillColor=#dae8fc;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="miKAQ_X7Kk5Acl7hc5rN-1" target="miKAQ_X7Kk5Acl7hc5rN-87">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="920" y="207" as="sourcePoint" />
+            <mxPoint x="920" y="218" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="miKAQ_X7Kk5Acl7hc5rN-87" value="feature/feat_2" style="whiteSpace=wrap;html=1;verticalAlign=middle;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="miKAQ_X7Kk5Acl7hc5rN-1">
-          <mxGeometry x="970" y="192" width="110" height="30" as="geometry" />
+          <mxGeometry x="970" y="203" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="miKAQ_X7Kk5Acl7hc5rN-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="miKAQ_X7Kk5Acl7hc5rN-1" source="miKAQ_X7Kk5Acl7hc5rN-89" target="miKAQ_X7Kk5Acl7hc5rN-91">
           <mxGeometry relative="1" as="geometry" />
@@ -157,11 +157,11 @@
         </mxCell>
         <mxCell id="miKAQ_X7Kk5Acl7hc5rN-122" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startFill=0;endArrow=none;endFill=0;strokeColor=#6c8ebf;fillColor=#dae8fc;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="miKAQ_X7Kk5Acl7hc5rN-1" target="miKAQ_X7Kk5Acl7hc5rN-123">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="920" y="389" as="sourcePoint" />
+            <mxPoint x="920" y="399" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="miKAQ_X7Kk5Acl7hc5rN-123" value="feature/feat_2" style="whiteSpace=wrap;html=1;verticalAlign=middle;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="miKAQ_X7Kk5Acl7hc5rN-1">
-          <mxGeometry x="970" y="374" width="110" height="30" as="geometry" />
+          <mxGeometry x="970" y="384" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="miKAQ_X7Kk5Acl7hc5rN-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="miKAQ_X7Kk5Acl7hc5rN-1" source="miKAQ_X7Kk5Acl7hc5rN-125" target="miKAQ_X7Kk5Acl7hc5rN-127">
           <mxGeometry relative="1" as="geometry" />
@@ -252,11 +252,11 @@
         </mxCell>
         <mxCell id="miKAQ_X7Kk5Acl7hc5rN-163" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startFill=0;endArrow=none;endFill=0;strokeColor=#6c8ebf;fillColor=#dae8fc;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="miKAQ_X7Kk5Acl7hc5rN-1" target="miKAQ_X7Kk5Acl7hc5rN-164">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="910" y="565" as="sourcePoint" />
+            <mxPoint x="920" y="572" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="miKAQ_X7Kk5Acl7hc5rN-164" value="feature/feat_2" style="whiteSpace=wrap;html=1;verticalAlign=middle;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="miKAQ_X7Kk5Acl7hc5rN-1">
-          <mxGeometry x="960" y="550" width="110" height="30" as="geometry" />
+          <mxGeometry x="970" y="557" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="miKAQ_X7Kk5Acl7hc5rN-165" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="miKAQ_X7Kk5Acl7hc5rN-1" source="miKAQ_X7Kk5Acl7hc5rN-166" target="miKAQ_X7Kk5Acl7hc5rN-168">
           <mxGeometry relative="1" as="geometry" />
@@ -315,14 +315,6 @@
             <mxPoint x="680" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="GRuwS00vfo8Ud_vGaZWW" name="Page-3">
-    <mxGraphModel dx="1422" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
-      <root>
-        <mxCell id="aPxbhYI6UT-6TPOnv4oR-0" />
-        <mxCell id="aPxbhYI6UT-6TPOnv4oR-1" parent="aPxbhYI6UT-6TPOnv4oR-0" />
       </root>
     </mxGraphModel>
   </diagram>
