@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-08T10:22:15.576Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.62" etag="9YFPDn-e3-fj4KKJRqEl" version="15.4.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-10-08T10:23:50.769Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.62" etag="gN6m4rjUZV9-myziDutu" version="15.4.3" type="github" pages="3">
   <diagram name="Page-1" id="c9db0220-8083-56f3-ca83-edcdcd058819">
     <mxGraphModel dx="981" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -581,13 +581,13 @@
         <mxCell id="-BCtDXktgj-Wfig6OCNW-13" value="choix dans liste des utilisateurs" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#dddddd;align=left;spacingLeft=10;fontSize=16;whiteSpace=wrap;rounded=0;" vertex="1" parent="bagi92MRqHWELJ-2OdU4-1">
           <mxGeometry x="540" y="1384" width="349" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-BCtDXktgj-Wfig6OCNW-14" value="&lt;font color=&quot;#ff0000&quot;&gt;* &lt;/font&gt;&lt;font color=&quot;#000000&quot;&gt;Nom / Prénom&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontColor=#999999;align=left;spacingLeft=5;whiteSpace=wrap;rounded=0;" vertex="1" parent="bagi92MRqHWELJ-2OdU4-1">
+        <mxCell id="-BCtDXktgj-Wfig6OCNW-14" value="&lt;font color=&quot;#000000&quot;&gt;Nom / Prénom&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontColor=#999999;align=left;spacingLeft=5;whiteSpace=wrap;rounded=0;" vertex="1" parent="bagi92MRqHWELJ-2OdU4-1">
           <mxGeometry x="540" y="1361" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-BCtDXktgj-Wfig6OCNW-15" value="récupéré et affiché quand choix ci-dessus validé" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#dddddd;align=left;spacingLeft=10;fontSize=16;whiteSpace=wrap;rounded=0;gradientColor=#E6E6E6;" vertex="1" parent="bagi92MRqHWELJ-2OdU4-1">
           <mxGeometry x="539" y="1461" width="350" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-BCtDXktgj-Wfig6OCNW-16" value="&lt;font color=&quot;#ff0000&quot;&gt;* &lt;/font&gt;&lt;font color=&quot;#000000&quot;&gt;ID de l&#39;utilisateur&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontColor=#999999;align=left;spacingLeft=5;whiteSpace=wrap;rounded=0;" vertex="1" parent="bagi92MRqHWELJ-2OdU4-1">
+        <mxCell id="-BCtDXktgj-Wfig6OCNW-16" value="&lt;font color=&quot;#000000&quot;&gt;ID de l&#39;utilisateur&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontColor=#999999;align=left;spacingLeft=5;whiteSpace=wrap;rounded=0;" vertex="1" parent="bagi92MRqHWELJ-2OdU4-1">
           <mxGeometry x="539" y="1438" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-BCtDXktgj-Wfig6OCNW-17" value="" style="shape=triangle;strokeColor=none;fillColor=#000000;direction=south;rounded=0;shadow=1;fontSize=12;fontColor=#000000;align=center;html=1;" vertex="1" parent="bagi92MRqHWELJ-2OdU4-1">
