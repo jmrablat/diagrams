@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-08T15:12:22.519Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.62" etag="tNZcJwsHzUZAKopeFB9a" version="15.4.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-10-08T15:15:09.934Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.62" etag="fx4Z4UQZDFp4A09vaTgI" version="15.4.3" type="github" pages="3">
   <diagram name="Page-1" id="c9db0220-8083-56f3-ca83-edcdcd058819">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -537,7 +537,7 @@
           <mxGeometry y="8" width="8" height="4" as="geometry" />
         </mxCell>
         <mxCell id="sDveogVoDjpnKkBq_VJv-23" value="Choisissez une plateforme de déploiement disponible :&lt;br&gt;- internet (BAD): ROA Internet (BPI – CICS 7/24)&lt;br&gt;- agence : ROA Agence (ROM – CICS 6/18)&lt;br&gt;- all : ROA Internet (BPI – CICS 7/24) et Agence (ROM – CICS 6/18)" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;whiteSpace=wrap;html=1;" parent="bagi92MRqHWELJ-2OdU4-1" vertex="1">
-          <mxGeometry x="480" y="745" width="440" height="70" as="geometry" />
+          <mxGeometry x="480" y="745" width="400" height="70" as="geometry" />
         </mxCell>
         <mxCell id="-BCtDXktgj-Wfig6OCNW-0" value="" style="shape=triangle;strokeColor=none;fillColor=#000000;direction=south;rounded=0;shadow=1;fontSize=12;fontColor=#000000;align=center;html=1;" parent="bagi92MRqHWELJ-2OdU4-1" vertex="1">
           <mxGeometry x="841" y="827.5" width="10" height="5" as="geometry" />
