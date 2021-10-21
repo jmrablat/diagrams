@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-21T09:16:36.875Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.62" etag="l4VP56OccGYB_pKSjIzc" version="15.5.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-21T09:17:23.425Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.62" etag="U0_ega8sUir3x3oaOGlW" version="15.5.6" type="github" pages="2">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2031" dy="1103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -258,7 +258,7 @@
             <mxPoint x="2238" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xGFBWR0dYAT8F0v2GXN5-21" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#000000;endArrow=none;strokeColor=#f08705;strokeWidth=6;exitX=0;exitY=0;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="xGFBWR0dYAT8F0v2GXN5-1" source="xGFBWR0dYAT8F0v2GXN5-4">
+        <mxCell id="xGFBWR0dYAT8F0v2GXN5-21" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#000000;endArrow=none;strokeColor=#f08705;strokeWidth=6;exitX=0;exitY=0;exitDx=0;exitDy=0;dashed=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="xGFBWR0dYAT8F0v2GXN5-1" source="xGFBWR0dYAT8F0v2GXN5-4" target="xGFBWR0dYAT8F0v2GXN5-31">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1670.3616643019486" y="489.99988714929833" as="sourcePoint" />
             <mxPoint x="1530" y="120" as="targetPoint" />
@@ -282,7 +282,7 @@
             <mxPoint x="1548" y="355" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xGFBWR0dYAT8F0v2GXN5-25" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#000000;endArrow=none;strokeColor=#f08705;strokeWidth=6;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="xGFBWR0dYAT8F0v2GXN5-1" source="xGFBWR0dYAT8F0v2GXN5-11">
+        <mxCell id="xGFBWR0dYAT8F0v2GXN5-25" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#000000;endArrow=none;strokeColor=#f08705;strokeWidth=6;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="xGFBWR0dYAT8F0v2GXN5-1" source="xGFBWR0dYAT8F0v2GXN5-11" target="xGFBWR0dYAT8F0v2GXN5-31">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2020.5" y="354" as="sourcePoint" />
             <mxPoint x="1530" y="120" as="targetPoint" />
@@ -298,10 +298,10 @@
           <mxGeometry x="1948" y="344" width="125" height="130" as="geometry" />
         </mxCell>
         <mxCell id="xGFBWR0dYAT8F0v2GXN5-31" value="Déveleppeur&amp;nbsp;&lt;br style=&quot;font-size: 15px;&quot;&gt;Authentifié : USERPROFILE + API KEY" style="shape=umlActor;verticalLabelPosition=top;verticalAlign=bottom;html=1;outlineConnect=0;aspect=fixed;labelPosition=left;align=right;fontSize=15;" vertex="1" parent="xGFBWR0dYAT8F0v2GXN5-1">
-          <mxGeometry x="1480" y="80" width="48" height="77.82" as="geometry" />
+          <mxGeometry x="1620" y="63.18" width="48" height="77.82" as="geometry" />
         </mxCell>
         <mxCell id="xGFBWR0dYAT8F0v2GXN5-33" value="Compte de service de BUILD&lt;br style=&quot;font-size: 14px;&quot;&gt;Authentifié : 1 user CIA + mdp CIA" style="shape=image;html=1;verticalLabelPosition=top;verticalAlign=bottom;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png;labelPosition=left;align=right;fontSize=14;" vertex="1" parent="xGFBWR0dYAT8F0v2GXN5-1">
-          <mxGeometry x="1390" y="141" width="52" height="61" as="geometry" />
+          <mxGeometry x="1420" y="200" width="52" height="61" as="geometry" />
         </mxCell>
         <mxCell id="xGFBWR0dYAT8F0v2GXN5-35" value="Compte de service de BUILD&lt;br style=&quot;font-size: 15px;&quot;&gt;Authentifié : 1 user CIA + mdp CIA" style="shape=image;html=1;verticalLabelPosition=top;verticalAlign=bottom;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png;labelPosition=left;align=right;fontSize=15;" vertex="1" parent="xGFBWR0dYAT8F0v2GXN5-1">
           <mxGeometry x="2157" y="80" width="52" height="61" as="geometry" />
