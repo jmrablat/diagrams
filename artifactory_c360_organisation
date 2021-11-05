@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-05T15:40:07.790Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.62" etag="2Y1rdUBlWkFMeQo0CLC9" version="15.6.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-11-05T15:44:28.615Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.62" etag="ZutfGsQy1_0LI_-394HW" version="15.6.8" type="github" pages="3">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="situations actuelle-cible">
     <mxGraphModel dx="1673" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -186,7 +186,7 @@
         <mxCell id="bEVzsre0xFjsFlNQcEth-0" />
         <mxCell id="bEVzsre0xFjsFlNQcEth-1" parent="bEVzsre0xFjsFlNQcEth-0" />
         <mxCell id="bEVzsre0xFjsFlNQcEth-19" value="CEE94-nuget-itgce-exchange-libs" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#F08705;strokeColor=none;gradientColor=none;" vertex="1" parent="bEVzsre0xFjsFlNQcEth-1">
-          <mxGeometry x="1480" y="122" width="150" height="119" as="geometry" />
+          <mxGeometry x="1410" y="81" width="150" height="119" as="geometry" />
         </mxCell>
         <mxCell id="bEVzsre0xFjsFlNQcEth-21" style="endArrow=none;strokeWidth=6;strokeColor=#f08705;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="bEVzsre0xFjsFlNQcEth-1" source="bEVzsre0xFjsFlNQcEth-23" target="bEVzsre0xFjsFlNQcEth-19">
           <mxGeometry relative="1" as="geometry" />
@@ -203,7 +203,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bEVzsre0xFjsFlNQcEth-26" value="CEE94-nuget-itgce-mwsmwa-libs" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontSize=20;strokeColor=none;strokeWidth=3;fillColor=#F08705;fontColor=#FFFFFF;" vertex="1" parent="bEVzsre0xFjsFlNQcEth-1">
-          <mxGeometry x="1830" y="20" width="150" height="120" as="geometry" />
+          <mxGeometry x="1740" y="30" width="150" height="120" as="geometry" />
         </mxCell>
         <mxCell id="bEVzsre0xFjsFlNQcEth-27" value="nuget-proxy-nuget-org" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=30;fontColor=#666666;align=center;strokeColor=#666666;strokeWidth=6;fillColor=#E6E6E6;fontStyle=1;gradientColor=none;" vertex="1" parent="bEVzsre0xFjsFlNQcEth-1">
           <mxGeometry x="1930" y="210" width="210" height="140" as="geometry" />
@@ -227,7 +227,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bEVzsre0xFjsFlNQcEth-44" value="CEE94-nuget-itgce-datamart-libs" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontSize=20;strokeColor=none;strokeWidth=3;fillColor=#F08705;fontColor=#FFFFFF;direction=south;" vertex="1" parent="bEVzsre0xFjsFlNQcEth-1">
-          <mxGeometry x="1650" y="70" width="140" height="130" as="geometry" />
+          <mxGeometry x="1580" y="50" width="140" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
