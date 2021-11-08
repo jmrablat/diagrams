@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-08T14:57:54.848Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.62" etag="NHOArFcf_1QKeqo2qsZ4" version="15.6.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-11-08T14:59:34.011Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.62" etag="GFZ2D846ODpWm_XuBrmd" version="15.6.8" type="github" pages="4">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="situations actuelle-cible">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -210,9 +210,6 @@
         <mxCell id="bEVzsre0xFjsFlNQcEth-27" value="nuget-proxy-nuget-org" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=30;fontColor=#666666;align=center;strokeColor=#666666;strokeWidth=6;fillColor=#E6E6E6;fontStyle=1;gradientColor=none;" parent="bEVzsre0xFjsFlNQcEth-1" vertex="1">
           <mxGeometry x="1930" y="354.5" width="210" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="bEVzsre0xFjsFlNQcEth-29" value="La situation intermédiaire&amp;nbsp;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;- les dépôts Artifactory ne peuvent pas être renommés ( création + suppression) :&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;--&amp;gt; le dépôt privé CEGOC contient des artifacts ne sera pas modifié&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;background-color: rgb(204 , 229 , 255)&quot;&gt;--&amp;gt; par contre les dépôts privés CEE94 vides sont créés à la nouvelle norme&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;background-color: rgb(204 , 229 , 255)&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;- les préfixes Snapshots et releases impliquent une modifications des pipelines que l&#39;équipe&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Indus&amp;nbsp;&lt;span&gt;n&#39;est pas en mesure de prendre en charge&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Configuration NuGet :&lt;/span&gt;&lt;/div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left&quot;&gt;Au niveau configuration du repository Artifactory :&lt;/li&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left&quot;&gt;les dépôts privés et virtuels doivent avoir l&#39;option &lt;b&gt;Force Authentication&lt;/b&gt; cochée&lt;/li&gt;&lt;/ul&gt;&lt;li style=&quot;text-align: left&quot;&gt;Au niveau Poste de développement:&lt;/li&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left&quot;&gt;seul le dépôt virtuel doit être configuré&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;le développeur doit s&#39;authentifier, à chaque fois en utilisant son User Profile et l&#39;API Key de Artifactory:&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left&quot;&gt;via la ligne de commande nuget :&amp;nbsp;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;courier new&amp;#34; , &amp;#34;courier&amp;#34; , monospace ; font-size: 14px ; letter-spacing: -0.32px ; background-color: rgb(255 , 255 , 255)&quot;&gt;nuget sources update -Name Artifactory -UserName admin -Password password&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;via VS, la pop-up d&#39;authentification&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#666666;" parent="bEVzsre0xFjsFlNQcEth-1" vertex="1">
-          <mxGeometry x="1220" y="560" width="1020" height="430" as="geometry" />
-        </mxCell>
         <mxCell id="bEVzsre0xFjsFlNQcEth-30" value="CEGOC-nuget-itce-C360-libs" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#1699D3;strokeColor=none;" parent="bEVzsre0xFjsFlNQcEth-1" vertex="1">
           <mxGeometry x="1270" y="289.5" width="120" height="126" as="geometry" />
         </mxCell>
@@ -253,6 +250,87 @@
           <mxGeometry x="1980" y="83.5" width="150" height="120" as="geometry" />
         </mxCell>
         <mxCell id="k9s1AVsgsKCavFDLA9je-5" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#000000;endArrow=none;strokeColor=#f08705;strokeWidth=6;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="bEVzsre0xFjsFlNQcEth-1" source="bEVzsre0xFjsFlNQcEth-23" target="k9s1AVsgsKCavFDLA9je-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1784.8528137423855" y="322.9314575050762" as="sourcePoint" />
+            <mxPoint x="2010.9862559684666" y="293.1983526662009" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Situation intermediaire C360 avec explications" id="-giHyC-50dmxO08EEwaJ">
+    <mxGraphModel dx="253" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="2X1spO_0EUHDRCLN636T-0" />
+        <mxCell id="2X1spO_0EUHDRCLN636T-1" parent="2X1spO_0EUHDRCLN636T-0" />
+        <mxCell id="2X1spO_0EUHDRCLN636T-2" value="CEE94-nuget-exchange-snapshots" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#F08705;strokeColor=none;gradientColor=none;" vertex="1" parent="2X1spO_0EUHDRCLN636T-1">
+          <mxGeometry x="1460" y="84.5" width="150" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="2X1spO_0EUHDRCLN636T-3" style="endArrow=none;strokeWidth=6;strokeColor=#f08705;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="2X1spO_0EUHDRCLN636T-1" source="2X1spO_0EUHDRCLN636T-5" target="2X1spO_0EUHDRCLN636T-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1600" y="314.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2X1spO_0EUHDRCLN636T-4" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;fontColor=#666666;endArrow=none;strokeColor=#808080;strokeWidth=6;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="2X1spO_0EUHDRCLN636T-1" source="2X1spO_0EUHDRCLN636T-5" target="2X1spO_0EUHDRCLN636T-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2X1spO_0EUHDRCLN636T-5" value="g-nuget-itce-cloud" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=30;fontColor=#2F5B7C;align=center;strokeColor=#2F5B7C;strokeWidth=6;fillColor=#FFFFFF;fontStyle=1;gradientColor=none;" vertex="1" parent="2X1spO_0EUHDRCLN636T-1">
+          <mxGeometry x="1570" y="289.5" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="2X1spO_0EUHDRCLN636T-6" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#000000;endArrow=none;strokeColor=#f08705;strokeWidth=6;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="2X1spO_0EUHDRCLN636T-1" source="2X1spO_0EUHDRCLN636T-5" target="2X1spO_0EUHDRCLN636T-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2050" y="279.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2X1spO_0EUHDRCLN636T-7" value="CEE94-nuget-mwsmwa-snapshots" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontSize=20;strokeColor=none;strokeWidth=3;fillColor=#F08705;fontColor=#FFFFFF;" vertex="1" parent="2X1spO_0EUHDRCLN636T-1">
+          <mxGeometry x="2000" y="213.5" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2X1spO_0EUHDRCLN636T-8" value="nuget-proxy-nuget-org" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=30;fontColor=#666666;align=center;strokeColor=#666666;strokeWidth=6;fillColor=#E6E6E6;fontStyle=1;gradientColor=none;" vertex="1" parent="2X1spO_0EUHDRCLN636T-1">
+          <mxGeometry x="1930" y="354.5" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="2X1spO_0EUHDRCLN636T-9" value="La situation intermédiaire&amp;nbsp;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;- les dépôts Artifactory ne peuvent pas être renommés ( création + suppression) :&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;--&amp;gt; le dépôt privé CEGOC contient des artifacts ne sera pas modifié&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;background-color: rgb(204 , 229 , 255)&quot;&gt;--&amp;gt; par contre les dépôts privés CEE94 vides sont créés à la nouvelle norme&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;background-color: rgb(204 , 229 , 255)&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;- les préfixes Snapshots et releases impliquent une modifications des pipelines que l&#39;équipe&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Indus&amp;nbsp;&lt;span&gt;n&#39;est pas en mesure de prendre en charge&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Configuration NuGet :&lt;/span&gt;&lt;/div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left&quot;&gt;Au niveau configuration du repository Artifactory :&lt;/li&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left&quot;&gt;les dépôts privés et virtuels doivent avoir l&#39;option &lt;b&gt;Force Authentication&lt;/b&gt; cochée&lt;/li&gt;&lt;/ul&gt;&lt;li style=&quot;text-align: left&quot;&gt;Au niveau Poste de développement:&lt;/li&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left&quot;&gt;seul le dépôt virtuel doit être configuré&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;le développeur doit s&#39;authentifier, à chaque fois en utilisant son User Profile et l&#39;API Key de Artifactory:&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left&quot;&gt;via la ligne de commande nuget :&amp;nbsp;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;courier new&amp;#34; , &amp;#34;courier&amp;#34; , monospace ; font-size: 14px ; letter-spacing: -0.32px ; background-color: rgb(255 , 255 , 255)&quot;&gt;nuget sources update -Name Artifactory -UserName admin -Password password&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;via VS, la pop-up d&#39;authentification&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#666666;" vertex="1" parent="2X1spO_0EUHDRCLN636T-1">
+          <mxGeometry x="1220" y="560" width="1020" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="2X1spO_0EUHDRCLN636T-10" value="CEGOC-nuget-itce-C360-libs" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#1699D3;strokeColor=none;" vertex="1" parent="2X1spO_0EUHDRCLN636T-1">
+          <mxGeometry x="1270" y="289.5" width="120" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="2X1spO_0EUHDRCLN636T-11" style="endArrow=none;strokeWidth=6;strokeColor=#1699D3;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2X1spO_0EUHDRCLN636T-1" source="2X1spO_0EUHDRCLN636T-5" target="2X1spO_0EUHDRCLN636T-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1325.5331585561048" y="373.87297977514436" as="sourcePoint" />
+            <mxPoint x="1239.995163068425" y="279.50461509766933" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2X1spO_0EUHDRCLN636T-12" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#000000;endArrow=none;strokeColor=#f08705;strokeWidth=6;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="2X1spO_0EUHDRCLN636T-1" source="2X1spO_0EUHDRCLN636T-5" target="2X1spO_0EUHDRCLN636T-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2000.5" y="283.70000000000005" as="sourcePoint" />
+            <mxPoint x="1850.0030911616286" y="199.50394121104773" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2X1spO_0EUHDRCLN636T-13" value="CEE94-nuget-datamart-snapshots" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontSize=20;strokeColor=none;strokeWidth=3;fillColor=#F08705;fontColor=#FFFFFF;direction=south;" vertex="1" parent="2X1spO_0EUHDRCLN636T-1">
+          <mxGeometry x="1810" y="83.5" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="2X1spO_0EUHDRCLN636T-14" value="CEE94-nuget-exchange-releases" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#F08705;strokeColor=none;gradientColor=none;" vertex="1" parent="2X1spO_0EUHDRCLN636T-1">
+          <mxGeometry x="1320" y="144.5" width="150" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="2X1spO_0EUHDRCLN636T-15" style="endArrow=none;strokeWidth=6;strokeColor=#f08705;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="2X1spO_0EUHDRCLN636T-1" source="2X1spO_0EUHDRCLN636T-5" target="2X1spO_0EUHDRCLN636T-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1600" y="314.5" as="sourcePoint" />
+            <mxPoint x="1594.4195001468795" y="193.02886758711065" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2X1spO_0EUHDRCLN636T-16" value="CEE94-nuget-datamart-releases" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#F08705;strokeColor=none;gradientColor=none;" vertex="1" parent="2X1spO_0EUHDRCLN636T-1">
+          <mxGeometry x="1640" y="70" width="150" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="2X1spO_0EUHDRCLN636T-17" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#000000;endArrow=none;strokeColor=#f08705;strokeWidth=6;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="2X1spO_0EUHDRCLN636T-1" source="2X1spO_0EUHDRCLN636T-5" target="2X1spO_0EUHDRCLN636T-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1690" y="294.5" as="sourcePoint" />
+            <mxPoint x="1855.8848640662277" y="180.73057975906454" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2X1spO_0EUHDRCLN636T-18" value="CEE94-nuget-mwsmwa-releases" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontSize=20;strokeColor=none;strokeWidth=3;fillColor=#F08705;fontColor=#FFFFFF;" vertex="1" parent="2X1spO_0EUHDRCLN636T-1">
+          <mxGeometry x="1980" y="83.5" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2X1spO_0EUHDRCLN636T-19" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#000000;endArrow=none;strokeColor=#f08705;strokeWidth=6;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="2X1spO_0EUHDRCLN636T-1" source="2X1spO_0EUHDRCLN636T-5" target="2X1spO_0EUHDRCLN636T-18">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1784.8528137423855" y="322.9314575050762" as="sourcePoint" />
             <mxPoint x="2010.9862559684666" y="293.1983526662009" as="targetPoint" />
