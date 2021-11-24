@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2021-11-24T10:49:16.791Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 Edg/92.0.902.84" etag="QrSZIVbZvEEzhmXZ2rPL" version="15.8.0" type="github"><diagram name="Page-1" id="54c02804-9d69-ba3f-8aca-1021b27b8050">7ZpLc5swEMc/jY/xIMTLRz/yOKQznUmnPcsggyZCoiBip5++WhA2WM7UhzhxpnCwpZXYFfv7GyThCV7mu/uSFNk3mVA+cZ1kN8Griesiz4n0F1heW0voGUNassR0Ohie2B9qjI6x1iyh1aCjkpIrVgyNsRSCxmpgI2Upt8NuG8mHUQuSUsvwFBNuW3+xRGXGihzn0PBAWZqZ0JFvGtYkfk5LWQsTT0hB25acdG5M1yojidz2TPh2gpellKot5bsl5ZDWLmPteXdvtO6HXFKhzjkhjDEJUBihMPbjDfZvUNC6eCG8NnkwI1WvXWIylXNdQhO82I/f0ZWEVBlNTIVwlgpdjvVIaKkNL7RUTGd3bhpyliTgEXwU4DnfpSCkacvObb/BLejHmQZQBHF5TSxWauZMgichS0jrQkgVZyZ8pUr5vOem87rYMM6XksuyuQi8bA6wS6GM+JBn6r1+TnPsPXYtDVO8sPNtEMDV0l3PZPJ/T2VOVfmqu5jWELdnmF+JP/Pb+ranucDIJevJrbMRI/N07/nAWxcM8jPxexZ910GhpYCO5SNZU/5dVsyQWEulZH4CtpKFtg6FM4DOxEY2JRZPQVQ0WdZryDCr5FykTWDk2xiRE+LZ7Vt4gOUdyRmH5D5Q/kJhVEPo7km12vp5B9SzIWrPO4HaPYEaoUuwDk+xjq6Y9Z1OIPoqrC3Y6FzY3iVgR6dgz64Y9vzWQ9j9IrC9I9g4OBf27BKwZydg72cc1wjbxfpeuPoisIMj2HpiO531j/PQu9El0HdPiiF7dMXskTufL/wvwj46Yo+iIfsoOA8+Di8CH1nwJ27AFYDTTUEKpQdKEibSrkEHObR1xqIzPMqS5hCyqGr4Tho6WklMweD1kCfusl2DVXo+TlUNrTpAwSoWN2EcypnpVenVAfgAI6urXEJV0bxofDIRs4QltQDXNXxwstbxobfqYtNmFZUKAmE4+12Tae9KisOFHOld81VH+i1IM0C88g+1H6Dy1U2jqG3GFH3SdnCx1crWNqmlsuHNiifT6xcq/rnUMDrWv4yE0cPKoifv/uLDUvE7aLab0xnJBr79bHLDD5uIIHfU6KhRa7bczY67Z6rzuSLFo0hHkVqz/G7BdCV3UnuzZhTpfy/S6MpE6o8iHUVqLaHR0ab352rU3hyzYI3vPN7znYcXekP+n/rSA9n7ZSP/i/KProq/a++Zjfzf5r/hrPhpcvEeS79wuPTD3T3+c7Rwagtt1MIHaSE4ehmOLnhf0NXD/yyatt7/WPDtXw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-24T11:39:56.701Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 Edg/92.0.902.84" etag="sLf1_CKkWgDlQYUslH2Z" version="15.8.0" type="github">
+  <diagram name="Page-1" id="54c02804-9d69-ba3f-8aca-1021b27b8050">
+    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7c3a617817c5cf35-16" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;strokeWidth=2;fillColor=#CCCCCC;fontSize=14;fontColor=#000000;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="73" y="595" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7c3a617817c5cf35-4" value="2008" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.infographic.shadedCube;isoAngle=15;fillColor=#10739E;strokeColor=none;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="93" y="445" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="7c3a617817c5cf35-7" value="2009" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.infographic.shadedCube;isoAngle=15;fillColor=#F2931E;strokeColor=none;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="293" y="415" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="7c3a617817c5cf35-8" value="2012" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.infographic.shadedCube;isoAngle=15;fillColor=#AE4132;strokeColor=none;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="493" y="365" width="120" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="7c3a617817c5cf35-9" value="2013" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.infographic.shadedCube;isoAngle=15;fillColor=#23445D;strokeColor=none;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="693" y="274.9999999999999" width="120" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="7c3a617817c5cf35-10" value="2021" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.infographic.shadedCube;isoAngle=15;fillColor=#12AAB5;strokeColor=none;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="893" y="184.99999999999986" width="120" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="7c3a617817c5cf35-11" value="&lt;h1&gt;Démarrage&lt;/h1&gt;&lt;div&gt;Mise en place de la 1ière instance Team Foundation Server 2008&lt;/div&gt;&lt;div&gt;Réunifier la gestion de code source PMM/PMV de toutes les communautés&amp;nbsp;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeWidth=2;fillColor=none;gradientColor=none;fontSize=14;align=center;" parent="1" vertex="1">
+          <mxGeometry x="18" y="655" width="270" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="7c3a617817c5cf35-12" value="&lt;h1&gt;IC, Packaging, Qualité,&amp;nbsp; Déploiement&lt;/h1&gt;&lt;div&gt;Toutes les applications PMM/PMV sont industrialisées au moyen de builds TFS&lt;/div&gt;&lt;div&gt;Ajout d&#39;un contrôle Qualité interne SQDP&lt;/div&gt;&lt;div&gt;Automatisation des remontées vers Synergy pour la BAD, NEO&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeWidth=2;fillColor=none;gradientColor=none;fontSize=14;align=center;" parent="1" vertex="1">
+          <mxGeometry x="200" y="135" width="310" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="7c3a617817c5cf35-13" value="&lt;h1&gt;Atelier OPEN&lt;/h1&gt;&lt;div&gt;Avec la création de l&#39;Atelier OPEN, décision d&#39;utiliser TFS pour tout le code source OPEN .Net, Java, PHP, Javascript, etc...&lt;/div&gt;&lt;div&gt;Hors CENTRAL et NSDK&lt;/div&gt;&lt;div&gt;Ensuite viendront s&#39;ajouter à la liste les projets RIA et ROA Myway V1, puis MyWay V2 RIA en TFS/GIT&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeWidth=2;fillColor=none;gradientColor=none;fontSize=14;align=center;" parent="1" vertex="1">
+          <mxGeometry x="410" y="655" width="279" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="7c3a617817c5cf35-14" value="&lt;h1&gt;Azure Devops Server ULD&lt;/h1&gt;&lt;div&gt;Sous impulsion IT-CE, mise à disposition par BPCE-IT d&#39;un service Azure Devops Server dans ULD ( Usine Logicielle de Développements Groupe)&lt;/div&gt;&lt;div&gt;Roadmap de migration du TFS Mysys sur 2022&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeWidth=2;fillColor=none;gradientColor=none;fontSize=14;align=center;" parent="1" vertex="1">
+          <mxGeometry x="800" y="655" width="300" height="195" as="geometry" />
+        </mxCell>
+        <mxCell id="7c3a617817c5cf35-18" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;strokeWidth=2;fillColor=#CCCCCC;fontSize=14;fontColor=#000000;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="474" y="595" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7c3a617817c5cf35-19" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;strokeWidth=2;fillColor=#CCCCCC;fontSize=14;fontColor=#000000;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="874" y="595" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7c3a617817c5cf35-20" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;strokeWidth=2;fillColor=#CCCCCC;fontSize=14;fontColor=#000000;strokeColor=none;flipV=1;" parent="1" vertex="1">
+          <mxGeometry x="275" y="340" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7c3a617817c5cf35-21" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;strokeWidth=2;fillColor=#CCCCCC;fontSize=14;fontColor=#000000;strokeColor=none;flipV=1;" parent="1" vertex="1">
+          <mxGeometry x="673" y="195" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YddIo2P0zqBEXQvupc_N-1" value="&lt;h1&gt;GIT dans TFS&lt;/h1&gt;&lt;div&gt;Avant la version TFS2013, seule TFS/TFVC était disponible ( proche SVN).&lt;/div&gt;&lt;div&gt;Evolution, Révolution GIT difficile dans nos équipes&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeWidth=2;fillColor=none;gradientColor=none;fontSize=14;align=center;" vertex="1" parent="1">
+          <mxGeometry x="600" y="50" width="300" height="185" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
