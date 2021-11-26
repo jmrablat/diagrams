@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-26T14:36:16.208Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 Edg/92.0.902.84" etag="J6tLx8qaQ_zGpkQw99O3" version="15.8.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-11-26T16:03:42.575Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 Edg/92.0.902.84" etag="nIDu0XfQp0GLHVfg1uER" version="15.8.6" type="github">
   <diagram name="Page-1" id="3e8102d1-ef87-2e61-34e1-82d9a586fe2e">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -10,14 +10,6 @@
         <mxCell id="I6qSIFDJgXAoR8v3hcVJ-5" value="&lt;h1&gt;&lt;font color=&quot;#4c0099&quot; style=&quot;font-size: 19px&quot; face=&quot;Comic Sans MS&quot;&gt;&lt;span&gt;Usage&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;&lt;h1&gt;&lt;font color=&quot;#4c0099&quot; style=&quot;font-size: 19px&quot; face=&quot;Comic Sans MS&quot;&gt;&lt;span&gt;&amp;nbsp;IT-CE&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCFF;fontColor=#ffffff;strokeColor=#432D57;shadow=0;sketch=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=top;spacingLeft=6;fontStyle=0;spacingTop=3;spacingRight=5;spacingBottom=3;glass=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="260" width="1140" height="230" as="geometry" />
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="exwdCXrFteR5TfPnkkmM" name="Page-2">
-    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
-      <root>
-        <mxCell id="OOfeWLwXudRtVYYvwran-0" />
-        <mxCell id="OOfeWLwXudRtVYYvwran-1" parent="OOfeWLwXudRtVYYvwran-0" />
       </root>
     </mxGraphModel>
   </diagram>
