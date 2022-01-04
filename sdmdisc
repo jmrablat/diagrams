@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-04T14:03:45.441Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.31" etag="n3oweeUor9dcS87yiirY" version="16.1.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-01-04T14:07:20.658Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.31" etag="NB-7_XZjFiX2IvZXcDcg" version="16.1.4" type="github" pages="3">
   <diagram id="2_Tvxc17h72vYC81xj2v" name="schéma">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -93,7 +93,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Copy of schéma" id="xpEUwQBQCa0_XWrOWfDS">
+  <diagram name="SDMDISC pipeline" id="xpEUwQBQCa0_XWrOWfDS">
     <mxGraphModel dx="1185" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="VdP48URdT12b20CCiJ28-0" />
