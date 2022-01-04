@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-04T13:57:41.852Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.31" etag="H4XWSDu-_UaXE--7LMkD" version="16.1.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-01-04T14:03:45.441Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.31" etag="n3oweeUor9dcS87yiirY" version="16.1.4" type="github" pages="3">
   <diagram id="2_Tvxc17h72vYC81xj2v" name="schéma">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -94,7 +94,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of schéma" id="xpEUwQBQCa0_XWrOWfDS">
-    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="VdP48URdT12b20CCiJ28-0" />
         <mxCell id="VdP48URdT12b20CCiJ28-1" parent="VdP48URdT12b20CCiJ28-0" />
@@ -156,26 +156,29 @@
         </mxCell>
         <mxCell id="VdP48URdT12b20CCiJ28-26" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="VdP48URdT12b20CCiJ28-1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="460" y="340" as="sourcePoint" />
+            <mxPoint x="420" y="310" as="sourcePoint" />
             <mxPoint x="604.5" y="389.4711538461538" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VdP48URdT12b20CCiJ28-37" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;strokeColor=#314354;strokeWidth=2;fillColor=#647687;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="VdP48URdT12b20CCiJ28-1" source="VdP48URdT12b20CCiJ28-29" target="VdP48URdT12b20CCiJ28-7">
+        <mxCell id="VdP48URdT12b20CCiJ28-37" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;strokeColor=#314354;strokeWidth=2;fillColor=#647687;" edge="1" parent="VdP48URdT12b20CCiJ28-1" source="VdP48URdT12b20CCiJ28-29">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="390" y="510" as="targetPoint" />
+            <mxPoint x="368" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VdP48URdT12b20CCiJ28-29" value=".param" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.code_file;pointerEvents=1;" vertex="1" parent="VdP48URdT12b20CCiJ28-1">
-          <mxGeometry x="410" y="390" width="57.5" height="70" as="geometry" />
+        <mxCell id="VdP48URdT12b20CCiJ28-29" value=".param" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.code_file;pointerEvents=1;rotation=0;" vertex="1" parent="VdP48URdT12b20CCiJ28-1">
+          <mxGeometry x="242" y="297" width="57.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="VdP48URdT12b20CCiJ28-40" value="2" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;strokeColor=#314354;strokeWidth=2;fillColor=#647687;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="VdP48URdT12b20CCiJ28-1" source="VdP48URdT12b20CCiJ28-48" target="VdP48URdT12b20CCiJ28-7">
+        <mxCell id="VdP48URdT12b20CCiJ28-40" value="2" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;strokeColor=#314354;strokeWidth=2;fillColor=#647687;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="VdP48URdT12b20CCiJ28-1" source="VdP48URdT12b20CCiJ28-48">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="355" as="sourcePoint" />
-            <mxPoint x="360" y="435" as="targetPoint" />
+            <mxPoint x="370" y="350" as="sourcePoint" />
+            <mxPoint x="390" y="540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="390" y="332" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="VdP48URdT12b20CCiJ28-35" value="" style="group" vertex="1" connectable="0" parent="VdP48URdT12b20CCiJ28-1">
-          <mxGeometry x="220" y="390" width="73.5" height="65" as="geometry" />
+          <mxGeometry x="168.5" y="354" width="73.5" height="65" as="geometry" />
         </mxCell>
         <mxCell id="VdP48URdT12b20CCiJ28-31" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.file;pointerEvents=1;" vertex="1" parent="VdP48URdT12b20CCiJ28-35">
           <mxGeometry width="47.5" height="50" as="geometry" />
@@ -184,7 +187,7 @@
           <mxGeometry x="26" y="15" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VdP48URdT12b20CCiJ28-48" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/698693-icon-102-document-file-xml-128.png;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="VdP48URdT12b20CCiJ28-1">
-          <mxGeometry x="330" y="264" width="100" height="100" as="geometry" />
+          <mxGeometry x="323" y="242" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="VdP48URdT12b20CCiJ28-49" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/698693-icon-102-document-file-xml-128.png;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="VdP48URdT12b20CCiJ28-1">
           <mxGeometry x="609" y="343" width="87" height="87" as="geometry" />
@@ -195,32 +198,26 @@
         <mxCell id="VdP48URdT12b20CCiJ28-64" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;strokeColor=#314354;strokeWidth=2;fillColor=#647687;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="VdP48URdT12b20CCiJ28-1" source="VdP48URdT12b20CCiJ28-53" target="VdP48URdT12b20CCiJ28-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VdP48URdT12b20CCiJ28-53" value="Ressources externes nécessaires à la transformation" style="swimlane;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="VdP48URdT12b20CCiJ28-1">
+        <mxCell id="VdP48URdT12b20CCiJ28-72" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;strokeColor=#314354;strokeWidth=2;fillColor=#647687;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="VdP48URdT12b20CCiJ28-1" source="VdP48URdT12b20CCiJ28-53" target="VdP48URdT12b20CCiJ28-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VdP48URdT12b20CCiJ28-53" value="Ressources externes nécessaires à la transformation" style="swimlane;fontFamily=Helvetica;fontSize=11;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;rounded=1;" vertex="1" parent="VdP48URdT12b20CCiJ28-1">
           <mxGeometry x="480" y="40" width="330" height="224" as="geometry" />
         </mxCell>
         <mxCell id="VdP48URdT12b20CCiJ28-52" value="&lt;span style=&quot;text-align: left ; background-color: rgb(248 , 249 , 250)&quot;&gt;Onglet Liste des Blocs par Application&lt;/span&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699748-icon-102-document-file-xml-128.png;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="VdP48URdT12b20CCiJ28-53">
           <mxGeometry x="71" y="130" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="VdP48URdT12b20CCiJ28-51" value="Liste Applications" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/dompicon-glyph-file-format-2/256/file-xml-format-type-128.png;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="VdP48URdT12b20CCiJ28-53">
-          <mxGeometry x="139" y="40" width="80" height="80" as="geometry" />
+          <mxGeometry x="180" y="40" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VdP48URdT12b20CCiJ28-63" value="Liste Domaines" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/dompicon-glyph-file-format-2/256/file-xml-format-type-128.png;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="VdP48URdT12b20CCiJ28-53">
-          <mxGeometry x="240" y="44" width="72" height="72" as="geometry" />
+          <mxGeometry x="258" y="80" width="72" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="VdP48URdT12b20CCiJ28-55" value="GCE - Inventaire des cartographie applicative et fonctionnelle.csv" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="VdP48URdT12b20CCiJ28-1">
-          <mxGeometry x="830" y="50" width="320" height="150" as="geometry" />
+        <mxCell id="VdP48URdT12b20CCiJ28-55" value="GCE - Inventaire des cartographie applicative et fonctionnelle.csv" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Helvetica;fontSize=11;fontColor=#ffffff;fillColor=#a20025;strokeColor=#6F0000;rounded=1;" vertex="1" parent="VdP48URdT12b20CCiJ28-1">
+          <mxGeometry x="830" y="204" width="320" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VdP48URdT12b20CCiJ28-56" value="Onglet Liste des Blocs par Application" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="VdP48URdT12b20CCiJ28-55">
           <mxGeometry y="30" width="320" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="VdP48URdT12b20CCiJ28-59" value="Index_tables_DB2_V0.xlsx" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="VdP48URdT12b20CCiJ28-55">
-          <mxGeometry y="60" width="320" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="VdP48URdT12b20CCiJ28-60" value="Liste Applications" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="VdP48URdT12b20CCiJ28-59">
-          <mxGeometry y="30" width="320" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="VdP48URdT12b20CCiJ28-61" value="Liste Domaines" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="VdP48URdT12b20CCiJ28-59">
-          <mxGeometry y="60" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VdP48URdT12b20CCiJ28-65" value="" style="group" vertex="1" connectable="0" parent="VdP48URdT12b20CCiJ28-1">
           <mxGeometry x="684" y="523" width="30" height="34" as="geometry" />
@@ -242,6 +239,15 @@
         </mxCell>
         <mxCell id="VdP48URdT12b20CCiJ28-71" value="&lt;span style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;Prérequis incontournable : s&#39;affranchir de EXCEL&lt;br&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;Adapter le programme de transformation actuellement en vba&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;Modifier les ressources externes, actuellement au format xlsx, vers un format portable comme XML&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/span&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ccccff;shape=mxgraph.archimate.motiv;motivType=req;rounded=0;shadow=1;glass=1;sketch=0;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="VdP48URdT12b20CCiJ28-1">
           <mxGeometry x="120" y="40" width="270" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="VdP48URdT12b20CCiJ28-59" value="Index_tables_DB2_V0.xlsx" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Helvetica;fontSize=11;fontColor=#ffffff;fillColor=#a20025;strokeColor=#6F0000;rounded=1;" vertex="1" parent="VdP48URdT12b20CCiJ28-1">
+          <mxGeometry x="830" y="60" width="320" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="VdP48URdT12b20CCiJ28-60" value="Liste Applications" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="VdP48URdT12b20CCiJ28-59">
+          <mxGeometry y="30" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VdP48URdT12b20CCiJ28-61" value="Liste Domaines" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Helvetica;fontSize=11;" vertex="1" parent="VdP48URdT12b20CCiJ28-59">
+          <mxGeometry y="60" width="320" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
