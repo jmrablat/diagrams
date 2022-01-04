@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-04T13:57:06.087Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.31" etag="D-zowIYamgewKeNF2k4H" version="16.1.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-01-04T13:57:41.852Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.31" etag="H4XWSDu-_UaXE--7LMkD" version="16.1.4" type="github" pages="3">
   <diagram id="2_Tvxc17h72vYC81xj2v" name="schéma">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -195,7 +195,7 @@
         <mxCell id="VdP48URdT12b20CCiJ28-64" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;strokeColor=#314354;strokeWidth=2;fillColor=#647687;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="VdP48URdT12b20CCiJ28-1" source="VdP48URdT12b20CCiJ28-53" target="VdP48URdT12b20CCiJ28-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VdP48URdT12b20CCiJ28-53" value="Ressources extérieures nécessaires à la transformation" style="swimlane;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="VdP48URdT12b20CCiJ28-1">
+        <mxCell id="VdP48URdT12b20CCiJ28-53" value="Ressources externes nécessaires à la transformation" style="swimlane;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="VdP48URdT12b20CCiJ28-1">
           <mxGeometry x="480" y="40" width="330" height="224" as="geometry" />
         </mxCell>
         <mxCell id="VdP48URdT12b20CCiJ28-52" value="&lt;span style=&quot;text-align: left ; background-color: rgb(248 , 249 , 250)&quot;&gt;Onglet Liste des Blocs par Application&lt;/span&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699748-icon-102-document-file-xml-128.png;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="VdP48URdT12b20CCiJ28-53">
