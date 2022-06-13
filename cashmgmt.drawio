@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-13T13:49:22.457Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.62" etag="dL8efeg_rhCjeZdkle_W" version="20.0.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-06-13T13:54:21.495Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.62" etag="XB6g8r5kAXMXbR5tLoYX" version="20.0.1" type="github" pages="4">
   <diagram id="2_Tvxc17h72vYC81xj2v" name="schéma">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -239,7 +239,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="tC0YDQwCGZI1utVwtQKy" name="GIT - flow SDM">
+  <diagram id="tC0YDQwCGZI1utVwtQKy" name="GIT - flow CASHMGMT">
     <mxGraphModel dx="1185" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="pmRWRWoGPR413R4xgYaX-0" />
