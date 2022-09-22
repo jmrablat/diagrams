@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-22T10:02:40.448Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.143 Safari/537.36 Edg/100.0.1185.57" etag="9ebMSWmUubtqUThxAoyB" version="20.3.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-09-22T15:54:17.567Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.143 Safari/537.36 Edg/100.0.1185.57" etag="Spm5Tt2i-A1UwbUUy11H" version="20.3.3" type="github" pages="4">
   <diagram id="0D8ftsyHvNtCDJ5dZ-QF" name="gitflow et pipeline">
     <mxGraphModel dx="1408" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -275,7 +275,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Gitflow full easy" id="uVA8CCar-oIOxjByCcsr">
-    <mxGraphModel dx="2011" dy="1083" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1173" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Ea3UfcwDlE5DXx1DAXsp-0" />
         <mxCell id="Ea3UfcwDlE5DXx1DAXsp-1" parent="Ea3UfcwDlE5DXx1DAXsp-0" />
@@ -568,6 +568,9 @@
         </mxCell>
         <mxCell id="mexAxsB9pMG0-av42-ni-9" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Builds.svg;dashed=1;fontColor=#FF8000;" vertex="1" parent="Ea3UfcwDlE5DXx1DAXsp-1">
           <mxGeometry x="1224" y="401" width="34" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="mexAxsB9pMG0-av42-ni-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ionicons-sharp-vol-1/512/git-pull-request-sharp-128.png;sketch=1;fillStyle=dashed;fontColor=#FF8000;fillColor=#CCCCCC;" vertex="1" parent="Ea3UfcwDlE5DXx1DAXsp-1">
+          <mxGeometry x="87" y="582" width="128" height="128" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
