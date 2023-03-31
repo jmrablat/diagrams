@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-31T16:56:51.845Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.78" etag="cgkEeSPfJL94N5DjUGOB" version="21.1.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-31T16:58:08.170Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.78" etag="30OIlJVJE1cdyt8t4Ryg" version="21.1.2" type="github" pages="2">
   <diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="TFS ITCE état des lieux">
     <mxGraphModel dx="1420" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -491,9 +491,6 @@
         </mxCell>
         <mxCell id="pWPGEXaExcyW50rVzAjz-81" value="Bitbucket" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;fontSize=9;fontStyle=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;labelBackgroundColor=none;" parent="URxYzWRl7A5Wdm90tlCG-1" vertex="1">
           <mxGeometry x="426.7649500000001" y="155.96000000000004" width="28.3464" height="21.259800000000002" as="geometry" />
-        </mxCell>
-        <mxCell id="ntDx_pl_hhkl-wKLjKqm-0" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/evil-icons-user-interface/64/question-128.png" vertex="1" parent="URxYzWRl7A5Wdm90tlCG-1">
-          <mxGeometry x="-25" y="193" width="128" height="128" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
