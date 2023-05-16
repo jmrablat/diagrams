@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-16T07:19:44.764Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.77" etag="tSI9wJ-Qke11zF5p4gJT" version="21.1.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-16T07:22:50.378Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.77" etag="ataDdG4cwqyorGM9khKp" version="21.1.2" type="github" pages="2">
   <diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="TFS ITCE état des lieux">
     <mxGraphModel dx="1420" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -306,42 +306,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pWPGEXaExcyW50rVzAjz-39" value="" style="group" parent="URxYzWRl7A5Wdm90tlCG-1" vertex="1" connectable="0">
-          <mxGeometry x="723.0000000000001" y="290" width="68.1101000000001" height="44.09440000000001" as="geometry" />
-        </mxCell>
-        <mxCell id="pWPGEXaExcyW50rVzAjz-35" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;fillColor=none;fontColor=#ffffff;strokeColor=#006EAF;shadow=0;" parent="pWPGEXaExcyW50rVzAjz-39" vertex="1">
-          <mxGeometry width="68.1101" height="44.09439999999999" as="geometry" />
-        </mxCell>
-        <mxCell id="pWPGEXaExcyW50rVzAjz-37" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/evericons-16px/16/question-circle-128.png" parent="pWPGEXaExcyW50rVzAjz-39" vertex="1">
-          <mxGeometry x="26" y="7.6200000000000045" width="17.03" height="17.03" as="geometry" />
-        </mxCell>
-        <mxCell id="pWPGEXaExcyW50rVzAjz-50" value="" style="group" parent="URxYzWRl7A5Wdm90tlCG-1" vertex="1" connectable="0">
-          <mxGeometry x="878.5549500000001" y="766.9100000000001" width="68.1101000000001" height="44.09440000000001" as="geometry" />
-        </mxCell>
-        <mxCell id="pWPGEXaExcyW50rVzAjz-51" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;fillColor=none;fontColor=#ffffff;strokeColor=#006EAF;shadow=0;" parent="pWPGEXaExcyW50rVzAjz-50" vertex="1">
-          <mxGeometry width="68.1101" height="44.09439999999999" as="geometry" />
-        </mxCell>
-        <mxCell id="pWPGEXaExcyW50rVzAjz-52" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/evericons-16px/16/question-circle-128.png" parent="pWPGEXaExcyW50rVzAjz-50" vertex="1">
-          <mxGeometry x="26" y="7.6200000000000045" width="17.03" height="17.03" as="geometry" />
-        </mxCell>
-        <mxCell id="pWPGEXaExcyW50rVzAjz-53" value="" style="group" parent="URxYzWRl7A5Wdm90tlCG-1" vertex="1" connectable="0">
-          <mxGeometry x="383" y="290" width="68.1101000000001" height="44.09440000000001" as="geometry" />
-        </mxCell>
-        <mxCell id="pWPGEXaExcyW50rVzAjz-54" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;fillColor=none;fontColor=#ffffff;strokeColor=#006EAF;shadow=0;" parent="pWPGEXaExcyW50rVzAjz-53" vertex="1">
-          <mxGeometry width="68.1101" height="44.09439999999999" as="geometry" />
-        </mxCell>
-        <mxCell id="pWPGEXaExcyW50rVzAjz-55" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/evericons-16px/16/question-circle-128.png" parent="pWPGEXaExcyW50rVzAjz-53" vertex="1">
-          <mxGeometry x="26" y="7.6200000000000045" width="17.03" height="17.03" as="geometry" />
-        </mxCell>
-        <mxCell id="pWPGEXaExcyW50rVzAjz-74" value="" style="group" parent="URxYzWRl7A5Wdm90tlCG-1" vertex="1" connectable="0">
-          <mxGeometry x="720" y="720" width="68.1101000000001" height="44.09440000000001" as="geometry" />
-        </mxCell>
-        <mxCell id="pWPGEXaExcyW50rVzAjz-75" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;fillColor=none;fontColor=#ffffff;strokeColor=#006EAF;shadow=0;" parent="pWPGEXaExcyW50rVzAjz-74" vertex="1">
-          <mxGeometry width="68.1101" height="44.09439999999999" as="geometry" />
-        </mxCell>
-        <mxCell id="pWPGEXaExcyW50rVzAjz-76" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/evericons-16px/16/question-circle-128.png" parent="pWPGEXaExcyW50rVzAjz-74" vertex="1">
-          <mxGeometry x="26" y="7.6200000000000045" width="17.03" height="17.03" as="geometry" />
-        </mxCell>
         <mxCell id="pWPGEXaExcyW50rVzAjz-77" value="" style="group" parent="URxYzWRl7A5Wdm90tlCG-1" vertex="1" connectable="0">
           <mxGeometry x="195" y="350" width="68.1101000000001" height="44.09440000000001" as="geometry" />
         </mxCell>
@@ -491,6 +455,42 @@
         </mxCell>
         <mxCell id="pWPGEXaExcyW50rVzAjz-81" value="Bitbucket" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;fontSize=9;fontStyle=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;labelBackgroundColor=none;" parent="URxYzWRl7A5Wdm90tlCG-1" vertex="1">
           <mxGeometry x="426.7649500000001" y="155.96000000000004" width="28.3464" height="21.259800000000002" as="geometry" />
+        </mxCell>
+        <mxCell id="QGX1GJuGUBk02GC027eH-5" value="" style="group" vertex="1" connectable="0" parent="URxYzWRl7A5Wdm90tlCG-1">
+          <mxGeometry x="721" y="280" width="68.1101000000001" height="44.09440000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="QGX1GJuGUBk02GC027eH-6" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;fillColor=none;fontColor=#ffffff;strokeColor=#006EAF;shadow=0;" vertex="1" parent="QGX1GJuGUBk02GC027eH-5">
+          <mxGeometry width="68.1101" height="44.09439999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="QGX1GJuGUBk02GC027eH-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-5/24/question-128.png" vertex="1" parent="QGX1GJuGUBk02GC027eH-5">
+          <mxGeometry x="20.80000000000001" y="4" width="26.52" height="26.52" as="geometry" />
+        </mxCell>
+        <mxCell id="QGX1GJuGUBk02GC027eH-8" value="" style="group" vertex="1" connectable="0" parent="URxYzWRl7A5Wdm90tlCG-1">
+          <mxGeometry x="380" y="300" width="68.1101000000001" height="44.09440000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="QGX1GJuGUBk02GC027eH-9" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;fillColor=none;fontColor=#ffffff;strokeColor=#006EAF;shadow=0;" vertex="1" parent="QGX1GJuGUBk02GC027eH-8">
+          <mxGeometry width="68.1101" height="44.09439999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="QGX1GJuGUBk02GC027eH-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-5/24/question-128.png" vertex="1" parent="QGX1GJuGUBk02GC027eH-8">
+          <mxGeometry x="20.80000000000001" y="4" width="26.52" height="26.52" as="geometry" />
+        </mxCell>
+        <mxCell id="QGX1GJuGUBk02GC027eH-11" value="" style="group" vertex="1" connectable="0" parent="URxYzWRl7A5Wdm90tlCG-1">
+          <mxGeometry x="720" y="730" width="68.1101000000001" height="44.09440000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="QGX1GJuGUBk02GC027eH-12" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;fillColor=none;fontColor=#ffffff;strokeColor=#006EAF;shadow=0;" vertex="1" parent="QGX1GJuGUBk02GC027eH-11">
+          <mxGeometry width="68.1101" height="44.09439999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="QGX1GJuGUBk02GC027eH-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-5/24/question-128.png" vertex="1" parent="QGX1GJuGUBk02GC027eH-11">
+          <mxGeometry x="20.80000000000001" y="4" width="26.52" height="26.52" as="geometry" />
+        </mxCell>
+        <mxCell id="QGX1GJuGUBk02GC027eH-14" value="" style="group" vertex="1" connectable="0" parent="URxYzWRl7A5Wdm90tlCG-1">
+          <mxGeometry x="880" y="770" width="68.1101000000001" height="44.09440000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="QGX1GJuGUBk02GC027eH-15" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;fillColor=none;fontColor=#ffffff;strokeColor=#006EAF;shadow=0;" vertex="1" parent="QGX1GJuGUBk02GC027eH-14">
+          <mxGeometry width="68.1101" height="44.09439999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="QGX1GJuGUBk02GC027eH-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-5/24/question-128.png" vertex="1" parent="QGX1GJuGUBk02GC027eH-14">
+          <mxGeometry x="20.80000000000001" y="4" width="26.52" height="26.52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
