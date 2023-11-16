@@ -1,0 +1,13 @@
+<mxfile host="app.diagrams.net" modified="2023-11-16T11:36:09.724Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" version="22.1.2" etag="gXlg7yqE93s83O-GySXY" type="github">
+  <diagram name="Page-1" id="hpNM9VxdL1yzCkQMzTt-">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Décrire l&#39;activité de l&#39;équipe Administration TFS" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="15" y="15" width="215" height="55" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
