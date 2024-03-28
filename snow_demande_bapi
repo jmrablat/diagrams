@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-28T15:10:14.791Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="mDLpOe-xvB-eNE9DJWRo" version="22.1.18" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-03-28T15:14:42.966Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="dvRXjaiYpG5pxlJiKn-N" version="22.1.18" type="github" pages="7">
   <diagram name="Page-1" id="c9db0220-8083-56f3-ca83-edcdcd058819">
     <mxGraphModel dx="1426" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -998,7 +998,7 @@
           <mxGeometry x="30" y="810" width="550" height="550" as="geometry" />
         </mxCell>
         <mxCell id="No5iogRaDcfDG10uXJXV-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;opacity=30;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="Uo483EmZodFQH3Ogx5Xk-1">
-          <mxGeometry x="650" y="813" width="550" height="550" as="geometry" />
+          <mxGeometry x="620" y="813" width="550" height="550" as="geometry" />
         </mxCell>
         <mxCell id="Uo483EmZodFQH3Ogx5Xk-2" value="&lt;font color=&quot;#ff0000&quot;&gt;* &lt;/font&gt;Application concernée" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontColor=#999999;align=left;spacingLeft=5;whiteSpace=wrap;rounded=0;" vertex="1" parent="Uo483EmZodFQH3Ogx5Xk-1">
           <mxGeometry x="41" y="160" width="200" height="20" as="geometry" />
@@ -1106,28 +1106,37 @@
           <mxGeometry x="212" y="825" width="15" height="15" as="geometry" />
         </mxCell>
         <mxCell id="2zVm499MzDWQi8LyVwbM-0" value="Saisie contrôlée - Liste Personnalisée" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#82b366;align=left;spacingLeft=10;fontSize=16;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;" vertex="1" parent="Uo483EmZodFQH3Ogx5Xk-1">
-          <mxGeometry x="761" y="1098" width="329" height="40" as="geometry" />
+          <mxGeometry x="721" y="1018" width="329" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Z-ugyI27uIZNfqSJAP1J-17" value="Demande de support EXOP" style="shape=ellipse;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;html=1;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;shadow=0;" vertex="1" parent="Uo483EmZodFQH3Ogx5Xk-1">
           <mxGeometry x="800" y="825" width="15" height="15" as="geometry" />
         </mxCell>
         <mxCell id="2zVm499MzDWQi8LyVwbM-1" value="&lt;font color=&quot;#ff0000&quot;&gt;* &lt;/font&gt;&lt;font color=&quot;#000000&quot;&gt;Thème&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=#82b366;fillColor=#d5e8d4;align=left;spacingLeft=5;whiteSpace=wrap;rounded=0;" vertex="1" parent="Uo483EmZodFQH3Ogx5Xk-1">
-          <mxGeometry x="761" y="1078" width="200" height="20" as="geometry" />
+          <mxGeometry x="721" y="998" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2zVm499MzDWQi8LyVwbM-2" value="" style="shape=triangle;strokeColor=none;fillColor=#000000;direction=south;rounded=0;shadow=1;fontSize=12;fontColor=#000000;align=center;html=1;" vertex="1" parent="Uo483EmZodFQH3Ogx5Xk-1">
-          <mxGeometry x="1062.5" y="1118" width="10" height="5" as="geometry" />
+          <mxGeometry x="1022.5" y="1038" width="10" height="5" as="geometry" />
         </mxCell>
         <mxCell id="2zVm499MzDWQi8LyVwbM-3" value="&lt;font color=&quot;#ff0000&quot;&gt;* &lt;/font&gt;&lt;font color=&quot;#000000&quot;&gt;Code CLARITY&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=#82b366;fillColor=#d5e8d4;align=left;spacingLeft=5;whiteSpace=wrap;rounded=0;" vertex="1" parent="Uo483EmZodFQH3Ogx5Xk-1">
-          <mxGeometry x="760" y="1155" width="200" height="20" as="geometry" />
+          <mxGeometry x="720" y="1075" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2zVm499MzDWQi8LyVwbM-4" value="Saisie contrôlée - Liste système" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#82b366;align=left;spacingLeft=10;fontSize=16;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;" vertex="1" parent="Uo483EmZodFQH3Ogx5Xk-1">
-          <mxGeometry x="760" y="1175" width="330" height="40" as="geometry" />
+          <mxGeometry x="720" y="1095" width="330" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2zVm499MzDWQi8LyVwbM-5" value="" style="shape=triangle;strokeColor=none;fillColor=#000000;direction=south;rounded=0;shadow=1;fontSize=12;fontColor=#000000;align=center;html=1;" vertex="1" parent="Uo483EmZodFQH3Ogx5Xk-1">
-          <mxGeometry x="1062.5" y="1192.5" width="10" height="5" as="geometry" />
+          <mxGeometry x="1022.5" y="1112.5" width="10" height="5" as="geometry" />
         </mxCell>
         <mxCell id="No5iogRaDcfDG10uXJXV-3" value="&lt;font color=&quot;#ff0000&quot;&gt;* &lt;/font&gt;&lt;font color=&quot;#000000&quot;&gt;Type de déclaration&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontColor=#999999;align=left;spacingLeft=5;whiteSpace=wrap;rounded=0;" vertex="1" parent="Uo483EmZodFQH3Ogx5Xk-1">
           <mxGeometry x="170" y="782.5" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wPjFvpZZ2TILid2P8Idj-0" value="Saisie contrôlée - Liste personnalisée" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6c8ebf;align=left;spacingLeft=10;fontSize=16;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;" vertex="1" parent="Uo483EmZodFQH3Ogx5Xk-1">
+          <mxGeometry x="720" y="1177" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wPjFvpZZ2TILid2P8Idj-1" value="Environnement concerné" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=#d6b656;fillColor=#fff2cc;align=left;spacingLeft=5;whiteSpace=wrap;rounded=0;" vertex="1" parent="Uo483EmZodFQH3Ogx5Xk-1">
+          <mxGeometry x="720" y="1157" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wPjFvpZZ2TILid2P8Idj-2" value="" style="shape=triangle;strokeColor=none;fillColor=#000000;direction=south;rounded=0;shadow=1;fontSize=12;fontColor=#000000;align=center;html=1;" vertex="1" parent="Uo483EmZodFQH3Ogx5Xk-1">
+          <mxGeometry x="1029" y="1197" width="10" height="5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
