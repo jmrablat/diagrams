@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-28T14:12:00.625Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="CO_pQMnAvZyLnBXGUjth" version="22.1.18" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-03-28T14:13:52.429Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="Un2dPN_PNvjajyWAXP4d" version="22.1.18" type="github" pages="6">
   <diagram name="Page-1" id="c9db0220-8083-56f3-ca83-edcdcd058819">
     <mxGraphModel dx="1426" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -879,7 +879,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Copie de EXOP-INC007" id="cmpwwRnpmxEWVZdi1HgA">
+  <diagram name="EXOP-INC007" id="cmpwwRnpmxEWVZdi1HgA">
     <mxGraphModel dx="1426" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="yaTtzsb-jhg9FxaztB5n-0" style=";html=1;" />
@@ -917,7 +917,7 @@
         <mxCell id="yaTtzsb-jhg9FxaztB5n-12" value="Saisie contrôlée - Liste personnalisée" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6c8ebf;align=left;spacingLeft=10;fontSize=16;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;" vertex="1" parent="yaTtzsb-jhg9FxaztB5n-1">
           <mxGeometry x="41" y="580" width="799" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yaTtzsb-jhg9FxaztB5n-13" value="Environnement concerné" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;spacingLeft=5;whiteSpace=wrap;rounded=0;" vertex="1" parent="yaTtzsb-jhg9FxaztB5n-1">
+        <mxCell id="yaTtzsb-jhg9FxaztB5n-13" value="Environnement concerné" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=#d6b656;fillColor=#fff2cc;align=left;spacingLeft=5;whiteSpace=wrap;rounded=0;" vertex="1" parent="yaTtzsb-jhg9FxaztB5n-1">
           <mxGeometry x="41" y="560" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yaTtzsb-jhg9FxaztB5n-16" value="&lt;font color=&quot;#ff0000&quot;&gt;* &lt;/font&gt;&lt;font color=&quot;#000000&quot;&gt;Système d&#39;information / SI concerné&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;spacingLeft=5;whiteSpace=wrap;rounded=0;" vertex="1" parent="yaTtzsb-jhg9FxaztB5n-1">
@@ -948,10 +948,10 @@
           <mxGeometry x="40" y="970" width="799" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yaTtzsb-jhg9FxaztB5n-28" value="&lt;font color=&quot;#000000&quot;&gt;URL appelée&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;spacingLeft=5;whiteSpace=wrap;rounded=0;" vertex="1" parent="yaTtzsb-jhg9FxaztB5n-1">
-          <mxGeometry x="42" y="1020" width="200" height="20" as="geometry" />
+          <mxGeometry x="41" y="1020" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yaTtzsb-jhg9FxaztB5n-29" value="Saisie libre" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6c8ebf;align=left;spacingLeft=10;fontSize=16;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;" vertex="1" parent="yaTtzsb-jhg9FxaztB5n-1">
-          <mxGeometry x="42" y="1040" width="799" height="40" as="geometry" />
+          <mxGeometry x="41" y="1040" width="799" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yaTtzsb-jhg9FxaztB5n-32" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essentials-73/24/039_-_Cross-128.png" vertex="1" parent="yaTtzsb-jhg9FxaztB5n-1">
           <mxGeometry x="815" y="340" width="20" height="20" as="geometry" />
